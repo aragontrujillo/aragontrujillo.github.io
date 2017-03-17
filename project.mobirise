@@ -141,13 +141,13 @@
               "family": "MobiriseIcons",
               "link": "index.html#contacts4-1",
               "size": "50",
-              "color": "#358c1e",
+              "color": "#a38f84",
               "active": true,
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Desarrollalisimo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/sharer/sharer.php?u=\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(41, 105, 176);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/?status=\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(39, 170, 224);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://plus.google.com/share?url=\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(209, 72, 65);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.linkedin.com/shareArticle?url=\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(61, 142, 185);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"index.html\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Desarrollalisimo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/sharer/sharer.php?u=%20https%3A//aragontrujillo.github.io/\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(41, 105, 176);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/?status=https://aragontrujillo.github.io/\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(39, 170, 224);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://plus.google.com/share?url=https://aragontrujillo.github.io/\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(209, 72, 65);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.linkedin.com/shareArticle?url=https://aragontrujillo.github.io/\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(61, 142, 185);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"index.html\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -173,7 +173,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>&nbsp;<b>Nelson Mandela</b><br><b>\nCadiz, 11011</b><br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34 665 45 86 35<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b>Webs Negocios</b></li><li><b>Webs Oficios</b></li><li><b>Webs Mobiles</b></li><li><b>Targetas Digitales</b></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Webs</a> <a href=\"index.html\">Negocios</a></b></li><li><b><a href=\"index.html\">W</a><a href=\"index.html\">ebs Oficios</a></b></li><li><b><a href=\"index.html\">Webs Mobiles</a></b></li><li><b><a href=\"index.html\">Targetas Digitales</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "franquiciaspublicidad@gmail.com",
