@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Desarrollo y diseño web, Haz visible tu negocio.",
-        "meta_descr": "Creación página web, Diseño Web, Mantenimiento Web web personalizables listos para usar. Solicite demo! +34665458635\nDiseño Responsivo · Actualización continua · Web listas para usar",
+        "title": "Desarrollo & Diseño Webs, Haz visible tu negocio.",
+        "meta_descr": "Creación página web, Diseño Web, Mantenimiento Web web personalizables listos para usar. Solicite demo! +34665458635\nDiseño Responsivo · Actualización continua · Webs listas para usar",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -161,15 +161,15 @@
           },
           "_anchor": "contacts4-1",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>&nbsp;<b>Nelson Mandela</b><br><b>\nCadiz, 11011</b><br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34 665 45 86 35<br><br>",
