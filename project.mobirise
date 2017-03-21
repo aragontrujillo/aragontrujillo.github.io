@@ -165,11 +165,11 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.7",
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>&nbsp;<b>Nelson Mandela</b><br><b>\nCadiz, 11011</b><br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34 665 45 86 35<br><br>",
